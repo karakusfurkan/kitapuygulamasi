@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_KitapUygulamasi\YG35426_KitapUygulamasi\bin\Debug\YG35426_KitapUygulamasi.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_KitapUygulamasi\YG35426_KitapUygulamasi\bin\Debug\YG35426_KitapUygulamasi.exe
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_KitapUygulamasi\YG35426_KitapUygulamasi\bin\Debug\YG35426_KitapUygulamasi.pdb
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_KitapUygulamasi\YG35426_KitapUygulamasi\obj\Debug\YG35426_KitapUygulamasi.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_KitapUygulamasi\YG35426_KitapUygulamasi\obj\Debug\YG35426_KitapUygulamasi.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_KitapUygulamasi\YG35426_KitapUygulamasi\obj\Debug\YG35426_KitapUygulamasi.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_KitapUygulamasi\YG35426_KitapUygulamasi\obj\Debug\YG35426_KitapUygulamasi.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_KitapUygulamasi\YG35426_KitapUygulamasi\obj\Debug\YG35426_KitapUygulamasi.exe
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_KitapUygulamasi\YG35426_KitapUygulamasi\obj\Debug\YG35426_KitapUygulamasi.pdb
